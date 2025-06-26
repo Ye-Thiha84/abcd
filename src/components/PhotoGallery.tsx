@@ -21,17 +21,17 @@ const PhotoGallery = () => {
     },
     {
       id: 4,
-      src: "https://images.unsplash.com/photo-1721322800607-8c38375eef04?w=400&h=400&fit=crop",
+      src: "five.jpg",
       caption: "Our cozy home"
     },
     {
       id: 5,
-      src: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?w=400&h=400&fit=crop&sat=-50",
+      src: "seven.jpg",
       caption: "Anniversary dinner"
     },
     {
       id: 6,
-      src: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=400&h=400&fit=crop&sat=-50",
+      src: "six.jpg",
       caption: "Travel adventures"
     }
   ];
